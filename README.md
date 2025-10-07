@@ -3,4 +3,7 @@
 Group: Herman Nissen-Sollie
 Description: Regression models comperative anlysis of OLS, Ridge and LASSO
 
-The notebook named project_1 in the code folder includes all codes used, required installments can be found in the requirements.txt
+Download all contents in code folder, each rtask is done in each respective folder. Data.py is used to generate the dataset
+
+Requirements.txt to install python packages
+
